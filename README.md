@@ -2,3 +2,5 @@
 ## 20187173 홍석민
 ---
 ![이력서사진](KakaoTalk_20200611_171831380.jpg)
+
+<img src = KakaoTalk_20200611_171831380.jpg height=150 width=150>
