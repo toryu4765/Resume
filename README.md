@@ -23,4 +23,9 @@
 2020년 1학기 수강 과목
 |과목|내용|학점|
 |---|---|---|
-|c프로그래밍|C언어|3|
+|c프로그래밍|C언어|3|   
+
+github address: [Toryu][github]
+
+[github]:toryu4765@naver.com
+
