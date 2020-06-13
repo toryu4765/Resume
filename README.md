@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융학대학 빅데이터전공
 ---
-<img src = git_image.jpg height=150 width=150>
+<img src = git_image.jpg height=150 width=225>
 20187173 홍석민
 
 ---
